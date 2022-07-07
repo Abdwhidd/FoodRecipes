@@ -3,6 +3,7 @@ I practice building a food recipe application using MVVM Architecture to make it
 
 
 ## Feature
+I also added Peckage Lottie-iOS for Onboarding animation
 ### Home
 ### Detail
 ### Search
